@@ -1,0 +1,28 @@
+.container {
+  margin-top: 30px;
+  width: 80%;
+  background-color: white;
+  padding: 50px;
+}
+
+button {
+  margin-right: 5px;
+}
+
+.help-block {
+  color: red;
+}
+
+input.ng-invalid.ng-touched {
+  border: 2px solid red;
+}
+
+#hobbies {
+  margin-bottom: 10px
+}
+
+#outer-container {
+  background-color: lavender;
+}
+
+
